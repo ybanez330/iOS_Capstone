@@ -80,7 +80,7 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 
 ## Wireframes
 
-<img src="https://github.com/ybanez330/iOS_Capstone/blob/main/IMG_0043.jpg" width=600>
+<img src="https://github.com/ybanez330/iOS_Capstone/blob/main/photos/IMG_0043.jpg" width=600>
 
 ## Schema 
 

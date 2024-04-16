@@ -81,7 +81,7 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="iOS_Capstone/IMG_0043.jpg" width=600>
 
 ## Schema 
 

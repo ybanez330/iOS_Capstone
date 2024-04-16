@@ -1,6 +1,3 @@
-# iOS_Capstone
-===
-
 # APP_NAME_HERE
 
 ## Table of Contents

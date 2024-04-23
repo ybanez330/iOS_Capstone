@@ -20,6 +20,8 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 - **Habit**: The app aims to become an essential part of users' baking routines, fostering a habit of precise ingredient measurement and consistent bread baking. Users are encouraged to utilize the app for every baking session, reinforcing the habit of relying on this app for accurate calculations and reliable results. Regular engagement with the app leads to increased confidence and satisfaction in sourdough bread making.
 - **Scope**: The core features of the app include calculating ingredient quantities based on the desired number of loaves and providing simple, intuitive user interface for easy navigation. The app's scope can be expanded in the future to include additional functionalities such as recipe storage, baking reminders, and community forums for sharing tips and experiences. However, the initial focus is on delivering a streamlined and user-friendly experience for calculating sourdough ingredient ratios.
 
+<img src="https://github.com/ybanez330/iOS_Capstone/blob/main/photos/IMG_0043.jpg" width=300>
+
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
@@ -81,6 +83,30 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 ## Wireframes
 
 <img src="https://github.com/ybanez330/iOS_Capstone/blob/main/photos/IMG_0043.jpg" width=600>
+
+## Sprint Planning
+
+### Main Features
+1. Ingredient Calculation
+2. Customizable Bread Recipe
+3. Recipe Storage
+4. Local Data Persistence
+
+### Sprint 1 (April 16-19)
+- Set up GitHub
+- Initialize XCode Project
+- Create WireFrame
+
+### Sprint 2 (April 20-23)
+- Create Input Screen (Home screen) with the ability to log the number of loaves
+- Create Output Screen to display calculated ingredient quantities
+- Implement basic tab navigation between Input and Output screens
+
+### Sprint 3 (April 24-29)
+- Ensure all features are fully implemented and functional
+- Finalize UI design, including app icon and color theme/branding
+- Conduct thorough testing and bug fixing
+
 
 ## Schema 
 

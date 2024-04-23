@@ -109,6 +109,8 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7bdd525ce6b84ec6b3c772298ce23b98-with-play.gif">
     </a>
   </div>
+  
+    **Challenges:** I initially had issues displaying the necessary ingredient quantities to the output page, but managed to display them with corrrect calculations. Additionally, while attempting to work ahead of schedule to implement an API to provide users with tips on sourdough baking posed a significant challenge. Navigating the documentation, understanding authentication requirements, and handling data retrieval were most challenging. Although the implementation of the API remains a work in progress, this experience has been a valuable learning opportunity, showcasing the importance of adaptability, problem-solving, and persistence in the development process. 
 
 ### Sprint 3 (April 24-29)
 - Ensure all features are fully implemented and functional

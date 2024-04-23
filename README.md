@@ -20,7 +20,7 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 - **Habit**: The app aims to become an essential part of users' baking routines, fostering a habit of precise ingredient measurement and consistent bread baking. Users are encouraged to utilize the app for every baking session, reinforcing the habit of relying on this app for accurate calculations and reliable results. Regular engagement with the app leads to increased confidence and satisfaction in sourdough bread making.
 - **Scope**: The core features of the app include calculating ingredient quantities based on the desired number of loaves and providing simple, intuitive user interface for easy navigation. The app's scope can be expanded in the future to include additional functionalities such as recipe storage, baking reminders, and community forums for sharing tips and experiences. However, the initial focus is on delivering a streamlined and user-friendly experience for calculating sourdough ingredient ratios.
 
-<img src="https://github.com/ybanez330/iOS_Capstone/blob/main/photos/IMG_0043.jpg" width=300>
+<img src="https://github.com/ybanez330/iOS_Capstone/blob/main/photos/SourdoughBuddyLogo.png" width=300>
 
 ## Product Spec
 

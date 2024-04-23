@@ -41,12 +41,12 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 
 ### 2. Screen Archetypes
 
-**Input Screen**
+- [X] **Input Screen**
 - Allows users to input the number of loaves they want to bake.
 - Provides options for adjusting loaf size or recipe variations.
 - Includes a button to generate ingredient quantities.
 
-**Output Screen**
+- [X] **Output Screen**
 - Displays the calculated grams of starter, flour, and water needed for the specified number of loaves.
 - Allows users to easily copy ingredient quantities for reference or sharing.
 - Provides a button to return to the input screen for adjustments.

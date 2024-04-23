@@ -24,36 +24,36 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 
 ### 1. User Stories (Required and Optional)
 
-    **Required Must-have Stories**
+**Required Must-have Stories**
 
-    - Users can input the number of loaves they want to bake.
-    - Users can view the calculated grams of starter, flour, and water needed for the specified number of loaves.
-    - Users can adjust the quantity of ingredients based on desired loaf size or recipe variations.
-    - Users can access a help section for guidance on using the app.
-    - Users can easily navigate between inputting the number of loaves and viewing the ingredient quantities.
+- Users can input the number of loaves they want to bake.
+- Users can view the calculated grams of starter, flour, and water needed for the specified number of loaves.
+- Users can adjust the quantity of ingredients based on desired loaf size or recipe variations.
+- Users can access a help section for guidance on using the app.
+- Users can easily navigate between inputting the number of loaves and viewing the ingredient quantities.
 
-    **Optional Nice-to-have Stories**
+**Optional Nice-to-have Stories**
 
-    - Users can save favorite recipes with custom names for future reference.
-    - Users can share recipes or ingredient calculations with friends via social media or messaging apps.
-    - Users can access a database of sourdough recipes for inspiration and reference.
-    - Users can set reminders for feeding their sourdough starter or starting the baking process.
+- Users can save favorite recipes with custom names for future reference.
+- Users can share recipes or ingredient calculations with friends via social media or messaging apps.
+- Users can access a database of sourdough recipes for inspiration and reference.
+- Users can set reminders for feeding their sourdough starter or starting the baking process.
 
 ### 2. Screen Archetypes
 
-    - [X] **Input Screen**
-    - Allows users to input the number of loaves they want to bake.
-    - Provides options for adjusting loaf size or recipe variations.
-    - Includes a button to generate ingredient quantities.
+- [X] **Input Screen**
+- Allows users to input the number of loaves they want to bake.
+- Provides options for adjusting loaf size or recipe variations.
+- Includes a button to generate ingredient quantities.
 
-    - [X] **Output Screen**
-    - Displays the calculated grams of starter, flour, and water needed for the specified number of loaves.
-    - Allows users to easily copy ingredient quantities for reference or sharing.
-    - Provides a button to return to the input screen for adjustments.
+- [X] **Output Screen**
+- Displays the calculated grams of starter, flour, and water needed for the specified number of loaves.
+- Allows users to easily copy ingredient quantities for reference or sharing.
+- Provides a button to return to the input screen for adjustments.
 
-    - [] **Help Screen**
-    - Provides guidance and instructions on how to use the app effectively.
-    - Includes FAQs and troubleshooting tips for common issues.
+- [] **Help Screen**
+- Provides guidance and instructions on how to use the app effectively.
+- Includes FAQs and troubleshooting tips for common issues.
 
 ### 3. Navigation
 

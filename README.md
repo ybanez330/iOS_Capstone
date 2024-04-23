@@ -102,6 +102,14 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 - Create Output Screen to display calculated ingredient quantities
 - Implement basic tab navigation between Input and Output screens
 
+<div>
+    <a href="https://www.loom.com/share/7bdd525ce6b84ec6b3c772298ce23b98">
+      <p>Unit 9 - iOS Capstone_SourdoughBuddy - Watch Video</p>
+    </a>
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7bdd525ce6b84ec6b3c772298ce23b98-with-play.gif">
+    </a>
+  </div>
+
 ### Sprint 3 (April 24-29)
 - Ensure all features are fully implemented and functional
 - Finalize UI design, including app icon and color theme/branding

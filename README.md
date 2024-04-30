@@ -31,7 +31,6 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 - Users can input the number of loaves they want to bake.
 - Users can view the calculated grams of starter, flour, and water needed for the specified number of loaves.
 - Users can adjust the quantity of ingredients based on desired loaf size or recipe variations.
-- Users can access a help section for guidance on using the app.
 - Users can easily navigate between inputting the number of loaves and viewing the ingredient quantities.
 
 **Optional Nice-to-have Stories**
@@ -53,10 +52,6 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 - Allows users to easily copy ingredient quantities for reference or sharing.
 - Provides a button to return to the input screen for adjustments.
 
-- [] **Help Screen**
-- Provides guidance and instructions on how to use the app effectively.
-- Includes FAQs and troubleshooting tips for common issues.
-
 ### 3. Navigation
 
 **Tab Navigation (Tab to Screen)**
@@ -75,10 +70,6 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
     - Offers the option to return to the Input Screen for adjustments.
     - Provides access to the Help Screen for guidance on interpreting ingredient quantities.
 
-- Help Screen
-    - Accessible from any screen for assistance and guidance.
-    - Offers links to relevant sections based on user inquiries or issues.
-
 
 ## Wireframes
 
@@ -92,12 +83,12 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 3. Recipe Storage
 4. Local Data Persistence
 
-### Sprint 1 (April 16-19)
+### Sprint 1: Unit 8 (April 16-19)
 - Set up GitHub
 - Initialize XCode Project
 - Create WireFrame
 
-### Sprint 2 (April 20-23)
+### Sprint 2: Unit 9 (April 20-23)
 - Create Input Screen (Home screen) with the ability to log the number of loaves
 - Create Output Screen to display calculated ingredient quantities
 - Implement basic tab navigation between Input and Output screens
@@ -110,25 +101,24 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
     </a>
   </div>
   
-**Challenges:** I initially had issues displaying the necessary ingredient quantities to the output page, but managed to display them with corrrect calculations. Additionally, while attempting to work ahead of schedule to implement an API to provide users with tips on sourdough baking posed a significant challenge. Navigating the documentation, understanding authentication requirements, and handling data retrieval were most challenging. Although the implementation of the API remains a work in progress, this experience has been a valuable learning opportunity, showcasing the importance of adaptability, problem-solving, and persistence in the development process. 
+**Week 9 Challenges:** I initially had issues displaying the necessary ingredient quantities to the output page, but managed to display them with corrrect calculations. Additionally, while attempting to work ahead of schedule to implement an API to provide users with tips on sourdough baking posed a significant challenge. Navigating the documentation, understanding authentication requirements, and handling data retrieval were most challenging. Although the implementation of the API remains a work in progress, this experience has been a valuable learning opportunity, showcasing the importance of adaptability, problem-solving, and persistence in the development process. 
 
-### Sprint 3 (April 24-29)
+### Sprint 3: Unit 10 (April 24-29)
+- Include SourdoughBuddyLogo within the app
 - Ensure all features are fully implemented and functional
 - Finalize UI design, including app icon and color theme/branding
 - Conduct thorough testing and bug fixing
 
+<div>
+    <a href="https://www.loom.com/share/adab62ad41e94ed9827fd5a65ef9318a">
+      <p>Unit 10: Final Project (Sourdough Buddy) - Watch Video</p>
+    </a>
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/adab62ad41e94ed9827fd5a65ef9318a-with-play.gif">
+    </a>
+  </div>
 
-## Schema 
+**Week 10 Challenges:** This week, I encountered several challenges while working on SourdoughBuddy. One major hurdle was integrating the Spoonacular API into the app to provide users with helpful tips on sourdough baking. Despite numerous attempts and troubleshooting sessions, I faced difficulties getting the API to function properly within the app environment. 
 
-[This section will be completed in Unit 9]
+On a more positive note, this course was filled with valuable learning experiences in my journey through Intro to iOS development. I definitely gained a deeper understanding delving into the intricacies of app development, learning more about Swift programming along the way. Moreover, I solidified my vision for SourdoughBuddy as not just a tool for individual bakers but also as a community-based platform where enthusiasts can share tips, recipes, and experiences. Moving forward, I am excited to further develop the app to fulfill its potential as a collaborative space for sourdough enthusiasts.
 
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
 

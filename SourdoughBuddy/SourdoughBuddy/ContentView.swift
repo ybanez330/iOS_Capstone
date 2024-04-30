@@ -19,6 +19,24 @@ struct ContentView: View {
     @State private var IngredientQuantity = ""
     
     var body: some View {
+        
+        ZStack {
+                   // Background color
+                   Color(UIColor(red: 0.96, green: 0.91, blue: 0.84, alpha: 1.0))
+                       .edgesIgnoringSafeArea(.all) // Extend color to edges
+                   
+                   // Your logo
+                   VStack {
+                       Spacer() // Pushes the logo to the top of the screen
+                       Image("SourdoughBuddyLogo") // Assuming your image file is named "logo.png"
+                           .resizable()
+                           .aspectRatio(contentMode: .fit)
+                           .frame(width: 300, height: 300) // Set width and height as needed
+                           .padding() // Add padding as needed to position the logo
+                   }
+              
+               }
+        
         TabView {
             InputView()
                 .tabItem {

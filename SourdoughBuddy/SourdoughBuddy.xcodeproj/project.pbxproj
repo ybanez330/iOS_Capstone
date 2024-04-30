@@ -18,7 +18,6 @@
 		3A1C99552BCF603100BE54FC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1C99542BCF603100BE54FC /* ContentView.swift */; };
 		3A1C99592BCF624700BE54FC /* CustomIngredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1C99582BCF624700BE54FC /* CustomIngredient.swift */; };
 		3A1C995B2BCF62FB00BE54FC /* IngredientManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1C995A2BCF62FB00BE54FC /* IngredientManager.swift */; };
-		3AD453082BD734F7008A1F9B /* NetworkingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD453072BD734F7008A1F9B /* NetworkingManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +34,6 @@
 		3A1C99542BCF603100BE54FC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3A1C99582BCF624700BE54FC /* CustomIngredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomIngredient.swift; sourceTree = "<group>"; };
 		3A1C995A2BCF62FB00BE54FC /* IngredientManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientManager.swift; sourceTree = "<group>"; };
-		3AD453072BD734F7008A1F9B /* NetworkingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +78,6 @@
 				3A1C99452BCF5EFA00BE54FC /* Assets.xcassets */,
 				3A1C99472BCF5EFA00BE54FC /* LaunchScreen.storyboard */,
 				3A1C994A2BCF5EFA00BE54FC /* Info.plist */,
-				3AD453072BD734F7008A1F9B /* NetworkingManager.swift */,
 			);
 			path = SourdoughBuddy;
 			sourceTree = "<group>";
@@ -162,7 +159,6 @@
 				3A1C99592BCF624700BE54FC /* CustomIngredient.swift in Sources */,
 				3A1C99512BCF5FFC00BE54FC /* InputView.swift in Sources */,
 				3A1C993D2BCF5EF800BE54FC /* AppDelegate.swift in Sources */,
-				3AD453082BD734F7008A1F9B /* NetworkingManager.swift in Sources */,
 				3A1C995B2BCF62FB00BE54FC /* IngredientManager.swift in Sources */,
 				3A1C993F2BCF5EF800BE54FC /* SceneDelegate.swift in Sources */,
 			);

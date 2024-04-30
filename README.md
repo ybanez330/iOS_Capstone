@@ -95,7 +95,7 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 
 <div>
     <a href="https://www.loom.com/share/7bdd525ce6b84ec6b3c772298ce23b98">
-      <p>Unit 9 - iOS Capstone_SourdoughBuddy - Watch Video</p>
+      <p>Unit 9 - Walkthrough Video</p>
   </div>
   
 **Week 9 Challenges:** I initially had issues displaying the necessary ingredient quantities to the output page, but managed to display them with corrrect calculations. Additionally, while attempting to work ahead of schedule to implement an API to provide users with tips on sourdough baking posed a significant challenge. Navigating the documentation, understanding authentication requirements, and handling data retrieval were most challenging. Although the implementation of the API remains a work in progress, this experience has been a valuable learning opportunity, showcasing the importance of adaptability, problem-solving, and persistence in the development process. 
@@ -108,7 +108,7 @@ An app that is simple yet indispensable tool for sourdough bread enthusiasts. It
 
 <div>
     <a href="https://www.loom.com/share/adab62ad41e94ed9827fd5a65ef9318a">
-      <p>Unit 10: Final Project (Sourdough Buddy) - Watch Video</p>
+      <p>Unit 10: Final Project</p>
     </a>
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/adab62ad41e94ed9827fd5a65ef9318a-with-play.gif">
     </a>
